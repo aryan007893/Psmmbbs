@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FormPilot</string>
+    <string name="accessibility_description">FormPilot can fill visible form fields when you explicitly request it. It does not submit forms.</string>
+</resources>

@@ -1,0 +1,18 @@
+{
+  "profileName": "Default",
+  "answers": {
+    "Full name": "Example Name",
+    "Roll number": "13",
+    "Email": "example@example.com",
+    "Department": "Medicine",
+    "Select your posting": ["Medicine", "Surgery"]
+  },
+  "matching": {
+    "strategy": "exact-then-question-contains-key",
+    "caseInsensitive": true
+  },
+  "submission": {
+    "requireUserConfirmation": true,
+    "autoSubmit": false
+  }
+}
